@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @blackmfg
+- 👀 I’m interested in ... CNC manufacturing and apps related to automating everything for my work. I'm a newbie developer trying to learn all that I can.
+- 🌱 I’m currently learning ... javascript and regular expressions. Attempting to build a small translator app with an input txt file and output txt file.
+- 💞️ I’m looking to collaborate on ... Anything I can contribute to, and learn something from.
